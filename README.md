@@ -35,12 +35,6 @@
 
   <br><br>
 
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
-
-  <br><br>
-
   <a href="https://emreercan.org" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-emreercan.org-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
